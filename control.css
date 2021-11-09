@@ -1,0 +1,75 @@
+body{
+	background-color:black;
+}
+
+p{
+	color:white;
+	font-size:30px;
+}
+
+h1{
+	color:white;
+	font-size:40px;
+}
+
+img{
+	border:3px white solid;
+}
+
+.set{
+	position:absolute;
+	margin-top:20px;
+	margin-right:20px;
+	top:0px;
+	right:0px;
+	height:10%;
+}
+
+.host{
+	position:absolute;
+	margin-top:10%;
+	margin-left:50%;
+	height:20%;
+}
+
+.join{
+	position:absolute;
+	margin-top:10%;
+	margin-right:50%;
+	right:0px;
+	height:20%;
+}
+
+.input{
+	position:absolute;
+	margin-top:5%;
+	margin-right:30%;
+	right:0px;
+	width:40%;
+}
+
+.code{
+	position:absolute;
+	text-align:center;
+	width:20%;
+	margin-left:40%;
+	top:0px;
+}
+
+.fromASL{
+	position:absolute;
+	margin-left:50%;
+	top:8%;
+}
+
+.fromSpeech{
+	position:absolute;
+	margin-left:50%;
+	top:40%;
+}
+
+.camera{
+	position:absolute;
+	margin-left:10%;
+	top:15%;
+}
